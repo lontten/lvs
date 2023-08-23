@@ -6,7 +6,7 @@ fnm 在 nushell 上用不了，于是我打算写一个简单一些的nodejs的�
 
 
 
-```js
+```shell
 
 lvs list
 展示所有的本地的node版本列表
